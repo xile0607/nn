@@ -51,6 +51,7 @@
         </body>
       </body>
 
+
       <!-- 左腿 → 向外分开，站姿稳定 -->
       <body name="thigh_L" pos="0 0.22 -0.1">
         <joint axis="0 1 0" range="-1.5 1.5"/>
