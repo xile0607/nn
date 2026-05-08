@@ -6,7 +6,6 @@ def main():
     # 模型路径（和文件同目录，直接写文件名）
     model_path = "d:/study/nn/src/muscle_humanoid/humanoid.xml"
 
-
     # 加载模型
     model = mujoco.MjModel.from_xml_path(model_path)
     data = mujoco.MjData(model)
